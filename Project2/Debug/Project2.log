@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\磊\source\repos\project2\project2\main.cpp(33): warning C4715: “twoSort”: 不是所有的控件路径都返回值
+  Project2.vcxproj -> C:\Users\磊\Source\Repos\Project2\Debug\Project2.exe
